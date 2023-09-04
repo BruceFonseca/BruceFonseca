@@ -14,63 +14,39 @@ Sobre mim:
 - 🤓 Cientista de Dados aspirante
 
 
+<div  align="right">
 Principais Ferramentas:
-<div align="right" style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
-  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <div style="display: inline_block">
+    <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  </div>
+  <br>
+  Onde pode me encontrar:
+  <div style="display: inline_block">
+    <a href="https://brucefonseca.com/" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
+    </a>
+    <a href="https://www.youtube.com/@brucefonseca1986/videos" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
+    </a>
+    <a href="https://www.linkedin.com/in/bruce-fonseca/" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+    </a>
+    <a href="https://github.com/BruceFonseca" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/code.png?raw=true">
+    </a>
+    <a href="https://www.instagram.com/brucefonsecapro/" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
+    </a>
+    <a href="https://www.facebook.com/brucelennon.cardosofonseca" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
+    </a>
+    <a href="https://wa.me/12678092225" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/whatsapp.png?raw=true">
+    </a>
+  </div>
 </div>
-
-<br>
-
-<!---
-ICONS https://devicon.dev/
--->
-
-<!---
-
-### minhas dicas:
-1 - copie o meu repositório de portfólio. Lá vc vai encontrar algumas imagens para utilizar nos seus principais links.
-2 - 
-
-Bloco de links
-<div style="display: inline_block"></div>
-
-Tag para links:
-<a href="https://brucefonseca.com/" target="_blank"></a>
-### adicione o link de suas redes sociais
-
-Tag para Imagens:
-<img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
-### adicione o link de imagens em seu repositório de projetos
-
--->
-
-Onde pode me encontrar:
-<div style="display: inline_block">
-  <a href="https://brucefonseca.com/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
-  </a>
-  <a href="https://www.youtube.com/@brucefonseca1986/videos" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
-  </a>
-  <a href="https://www.linkedin.com/in/bruce-fonseca/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
-  </a>
-  <a href="https://github.com/BruceFonseca" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/code.png?raw=true">
-  </a>
-  <a href="https://www.instagram.com/brucefonsecapro/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
-  </a>
-  <a href="https://www.facebook.com/brucelennon.cardosofonseca" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
-  </a>
-  <a href="https://wa.me/12678092225" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/whatsapp.png?raw=true">
-  </a>
-</div>
-
 ## 
 
 ## Portfólio e Principais Projetos
@@ -101,4 +77,29 @@ Principais problemas relatados pelo requisitante:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+
+
+<!---
+ICONS https://devicon.dev/
+-->
+
+<!---
+
+### minhas dicas:
+1 - copie o meu repositório de portfólio. Lá vc vai encontrar algumas imagens para utilizar nos seus principais links.
+2 - 
+
+Bloco de links
+<div style="display: inline_block"></div>
+
+Tag para links:
+<a href="https://brucefonseca.com/" target="_blank"></a>
+### adicione o link de suas redes sociais
+
+Tag para Imagens:
+<img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
+### adicione o link de imagens em seu repositório de projetos
+
+-->
 
