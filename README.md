@@ -5,7 +5,9 @@
 ### Hello world, I'm Bruce👋
 
 ## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceFonseca&layout=donut&theme=dark)](https://github.com/BruceFonseca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceFonseca&layout=donut&theme=dark)](https://github.com/BruceFonseca/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceFonseca&show_icons=true&theme=dark&layout=compact) 
+
 
 Sobre mim:
 
