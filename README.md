@@ -76,12 +76,14 @@ Tag para Imagens:
   <a href="https://brucefonseca.com/" target="_blank">
     <img align="center" alt="" height="140" width="248" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
   </a>
+  <div>
+    <h3>Contoso Sales Dashboard</h3>
+    <p>
+      Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+    </p>
+  </div>
 </div>
-<div style="display: inline_block">
-  <a href="https://brucefonseca.com/" target="_blank">
-    <img align="center" alt="" height="140" width="248" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2003.png?raw=true">
-  </a>
-</div>
+
 <div style="display: inline_block">
     <a href="https://brucefonseca.com/" target="_blank">
     <img align="center" alt="" height="140" width="248" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2002.png?raw=true">
