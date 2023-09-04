@@ -27,6 +27,24 @@ Principais Ferramentas:
 ICONS https://devicon.dev/
 -->
 
+<!---
+
+### minhas dicas:
+1 - copie o meu repositório de portfólio. Lá vc vai encontrar algumas imagens para utilizar nos seus principais links.
+2 - 
+
+Bloco de links
+<div style="display: inline_block"></div>
+
+Tag para links:
+<a href="https://brucefonseca.com/" target="_blank"></a>
+### adicione o link de suas redes sociais
+
+Tag para Imagens:
+<img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
+### adicione o link de imagens em seu repositório de projetos
+
+-->
 
 ## Onde pode me encontrar
 <div style="display: inline_block">
