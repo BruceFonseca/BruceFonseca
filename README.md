@@ -1,6 +1,6 @@
 ### Hello world, I'm Bruce👋
 
-## Especialista em Business Intelligence  <br> Administrador e Instrutor Análise de Dados
+## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
 
 <!--
 **BruceFonseca/BruceFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
