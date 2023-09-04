@@ -72,9 +72,10 @@ Tag para Imagens:
 </div>
 
 ## Portfólio e Principais Projetos
+<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
 <div style="display: inline_block">
   <a href="https://brucefonseca.com/" target="_blank">
-    <img align="center" alt="" height="140" width="248" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+    <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
   </a>
   <div>
     <h3>Contoso Sales Dashboard</h3>
