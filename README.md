@@ -81,4 +81,13 @@ Principais problemas relatados pelo requisitante:
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
 Clique aqui e acesse o a solução desenvolvida para o cliente.
 
+### Contoso Sales Dashboard
+<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Principais problemas relatados pelo requisitante: 
+- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
+- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
+- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+Clique aqui e acesse o a solução desenvolvida para o cliente.
+
 
