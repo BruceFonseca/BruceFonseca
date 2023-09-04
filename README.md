@@ -71,6 +71,8 @@ Onde pode me encontrar:
   </a>
 </div>
 
+## 
+
 ## Portfólio e Principais Projetos
 ### Contoso Sales Dashboard V1
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
