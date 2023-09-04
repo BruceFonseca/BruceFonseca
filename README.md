@@ -63,7 +63,7 @@ Principais problemas relatados pelo requisitante:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 
 
@@ -79,7 +79,7 @@ Principais problemas relatados pelo requisitante:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 
 
