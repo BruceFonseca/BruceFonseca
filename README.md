@@ -5,7 +5,9 @@
 ### Hello world, I'm Bruce👋
 
 ## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceFonseca&layout=donut&theme=dark)](https://github.com/BruceFonseca/github-readme-stats)
+</div>
 Sobre mim:
 
 - 🔭 Atualmente trabalho como Data Analyst Manager
