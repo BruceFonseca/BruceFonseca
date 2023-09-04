@@ -46,7 +46,7 @@ Tag para Imagens:
 
 -->
 
-## Onde pode me encontrar
+Onde pode me encontrar:
 <div style="display: inline_block">
   <a href="https://brucefonseca.com/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
