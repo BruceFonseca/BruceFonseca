@@ -22,8 +22,9 @@ Principais Ferramentas:
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div>
-
+## 
 <br>
+
   
 Onde pode me encontrar:
 <div style="display: inline_block">
