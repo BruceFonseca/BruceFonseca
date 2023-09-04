@@ -13,7 +13,7 @@ Sobre mim:
 - 🌱 Ensino Analise de dados em minha plataforma
 - 🤓 Cientista de Dados aspirante
 
-## 
+
 
 Principais Ferramentas:
 
