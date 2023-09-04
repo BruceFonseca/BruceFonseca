@@ -13,6 +13,7 @@ Sobre mim:
 - 🏠 Atualmente morando na Pennsylvania, PA
 - 🤓 Estudando Machine Learning e IA
 
+
 ## Principais Linguagens e Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
