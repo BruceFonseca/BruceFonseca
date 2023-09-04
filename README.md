@@ -71,3 +71,16 @@ Tag para Imagens:
   </a>
 </div>
 
+## Portfólio e Principais Projetos
+<div style="display: inline_block">
+  <a href="https://brucefonseca.com/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+  </a>
+    <a href="https://brucefonseca.com/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2003.png?raw=true">
+  </a>
+    <a href="https://brucefonseca.com/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2002.png?raw=true">
+  </a>
+</div>
+
