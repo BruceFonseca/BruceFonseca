@@ -32,10 +32,10 @@ Sobre mim:
 
 ## Onde pode me encontrar
 <div style="display: inline_block">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/BruceFonseca/Portfolio/main/social%20icons/code.png">
-  <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
+  <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
+  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  <img align="center" alt="PHP" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/code.png?raw=true">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
