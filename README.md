@@ -9,10 +9,11 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho como Data Analyst Manager
-- 🌱 Ensino Analise de dados e minha plataforma
-- 🏠 Atualmente morando na Pennsylvania, PA
+- 🏠 Atualmente moro e trabalho nos Estados Unidos
+- 🌱 Ensino Analise de dados em minha plataforma
 - 🤓 Estudando Machine Learning e IA
 
+<br>
 
 ## Principais Linguagens e Ferramentas
 <div style="display: inline_block">
