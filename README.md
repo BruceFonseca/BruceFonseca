@@ -14,7 +14,7 @@ Sobre mim:
 - 🤓 Cientista de Dados aspirante
 
 ## 
-  
+
 Principais Ferramentas:
 
 <div style="display: inline_block">
