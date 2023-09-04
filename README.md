@@ -11,7 +11,7 @@ Sobre mim:
 - 🔭 Atualmente trabalho como Data Analyst Manager
 - 🏠 Atualmente moro e trabalho nos Estados Unidos
 - 🌱 Ensino Analise de dados em minha plataforma
-- 🤓 Estudando Machine Learning e IA
+- 🤓 Cientista de Dados aspirante
 
 
 Principais Ferramentas:
