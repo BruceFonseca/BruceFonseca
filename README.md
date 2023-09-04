@@ -15,7 +15,7 @@ Sobre mim:
 
 <br>
 
-### Principais Linguagens e Ferramentas
+Principais Linguagens e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
