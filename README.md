@@ -84,7 +84,7 @@ Principais problemas relatados pelo requisitante:
 
 
 
-<br>
+<br><br><br><br>
 
 ### Contoso Sales Dashboard V2
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
