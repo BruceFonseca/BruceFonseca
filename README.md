@@ -13,6 +13,10 @@ Sobre mim:
 - 🌱 Ensino Analise de dados em minha plataforma
 - 🤓 Cientista de Dados aspirante
 
+- 
+<img src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
+
+
 ## 
 
 Principais Ferramentas:
