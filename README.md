@@ -14,7 +14,7 @@ Sobre mim:
 - 🤓 Cientista de Dados aspirante
 
 - 
-<img src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
+<img height="50" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
 
 
 ## 
