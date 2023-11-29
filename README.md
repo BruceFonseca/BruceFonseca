@@ -70,7 +70,7 @@ Principais problemas relatados pelo requisitante:
 
 <br><br>
 
-### Análise de Clientes AdventureWorks com SQL Server
+### Análise de Clientes da empresa AdventureWorks
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2002.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: 
