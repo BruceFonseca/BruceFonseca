@@ -54,7 +54,7 @@ Onde pode me encontrar:
 ## 
 
 ## Portfólio e Principais Projetos
-### Contoso Sales Dashboard V1
+### Contoso Sales Dashboard
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
@@ -70,13 +70,13 @@ Principais problemas relatados pelo requisitante:
 
 <br><br>
 
-### Contoso Sales Dashboard V2
+### Análise de Clientes AdventureWorks com SQL Server
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2002.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
-Principais problemas relatados pelo requisitante: 
-- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
-- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
-- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: 
+- Desenvolver consultas utilizando linguagem SQL.
+- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.
+- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
