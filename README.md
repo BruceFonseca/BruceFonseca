@@ -73,11 +73,11 @@ Principais problemas relatados pelo requisitante:
 ### Análise de Clientes AdventureWorks
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/diagrama.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
-Principais desafios: 
-- Desenvolver consultas utilizando linguagem SQL.
-- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
 - Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
-
+<br>
 <br>
 <a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
