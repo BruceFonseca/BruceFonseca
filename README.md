@@ -71,16 +71,15 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ### Análise de Clientes da empresa AdventureWorks
-<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2002.png?raw=true">
+<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/diagrama.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: 
 - Desenvolver consultas utilizando linguagem SQL.
 - Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.
 - Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
+
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
-<br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 
 
