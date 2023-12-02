@@ -37,17 +37,8 @@ Onde pode me encontrar:
   <a href="https://www.linkedin.com/in/bruce-fonseca/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  <a href="https://github.com/BruceFonseca" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/code.png?raw=true">
-  </a>
   <a href="https://www.instagram.com/brucefonsecapro/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
-  </a>
-  <a href="https://www.facebook.com/brucelennon.cardosofonseca" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/facebook.png?raw=true">
-  </a>
-  <a href="https://wa.me/12678092225" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/whatsapp.png?raw=true">
   </a>
 </div>
 
