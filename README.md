@@ -66,12 +66,10 @@ Principais problemas relatados pelo requisitante:
 <br>
 <a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-
-
 <br><br>
 
 ### Análise de Clientes AdventureWorks
-<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/diagrama.png?raw=true">
+<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/Captura%20de%20tela%202023-12-02%20143057.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
@@ -80,14 +78,6 @@ Principais desafios: <br>
 <br>
 <br>
 <a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main#readme" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-
-
-
-
-
-
-
-
 
 <!---
 ICONS https://devicon.dev/
