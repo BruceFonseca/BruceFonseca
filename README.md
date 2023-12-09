@@ -29,6 +29,7 @@ Principais Ferramentas:
 Onde pode me encontrar:
 <div style="display: inline_block">
   <a href="https://brucefonseca.com/" target="_blank">
+    [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
   <a href="https://www.youtube.com/@brucefonseca1986/videos" target="_blank">
